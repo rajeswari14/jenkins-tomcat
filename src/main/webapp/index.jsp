@@ -121,7 +121,10 @@
         <a href="#">Home</a>
         <a href="#">TV Shows</a>
         <a href="#">Movies</a>
-        <a href="#">My List</a>
+        <a href="#">Tollywood</a>
+<a href="#">Hollywood</a>
+<a href="#">Bollywood</a>
+<a href="#">Kollywood</a>
     </div>
 </div>
 
