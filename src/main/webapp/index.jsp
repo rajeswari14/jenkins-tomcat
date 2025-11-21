@@ -128,7 +128,7 @@
 
 <!-- HERO -->
 <div class="hero">
-    <h1>Hit Movie</h1>
+    <h1>Blockbuster Movie</h1>
     <p>Watch the latest blockbuster hit, now streaming exclusively.</p>
     <button>Play</button>
 </div>
