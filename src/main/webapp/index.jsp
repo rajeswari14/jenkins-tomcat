@@ -124,8 +124,6 @@
 <a href="#">Kids</a>
 <a href="#">Help</a>
 <a href="#">Settings</a>
-        
-<a href="#">Kids</a>
     </div>
 </div>
 
